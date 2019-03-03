@@ -55,14 +55,15 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 ### 2. Steam API
 
+-   [`download-steam-reviews`](https://github.com/woctezuma/download-steam-reviews): download every review for the game of your choice,
 -   [`steampi`](https://github.com/woctezuma/steampi): download app details (including release date) through Steam API, and match names with appIDs,
 -   [`steam-api`](https://github.com/woctezuma/steam-api): download a list of all appIDs through Steam API, then download their app details, create an aggregate similar to SteamSpy's (but more exhaustive), finally analyze store attributes and map tags.
-NB: store descriptions can be aggregated for [later processing](https://github.com/woctezuma/steam-portal#i-store-descriptions),
--   [`download-steam-reviews`](https://github.com/woctezuma/download-steam-reviews): download every review for the game of your choice.
+
+NB: store descriptions can be aggregated for [later processing](https://github.com/woctezuma/steam-portal#i-store-descriptions).
 
 ## VIII. Data snapshots
 
 -   [`steam-api-data`](https://github.com/woctezuma/steam-api-data): app details,
--   [`hidden-gems-data`](https://github.com/woctezuma/hidden-gems-data): language stats for regional rankings of "hidden gems",
 -   [`steam-reviews-data`](https://github.com/woctezuma/steam-reviews-data): reviews,
+-   [`hidden-gems-data`](https://github.com/woctezuma/hidden-gems-data): language stats for regional rankings of "hidden gems",
 -   [`recent-sales-data`](https://github.com/woctezuma/recent-sales-data): aggregate of SteamSpy data between July 17th, 2017 and February 6th, 2018.
