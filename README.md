@@ -39,29 +39,29 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 ## V. Store reviews
 
--   [`steam-reviews`](https://github.com/woctezuma/steam-reviews): stats and sentiment analysis of reviews.
+-   [`steam-reviews`](https://github.com/woctezuma/steam-reviews): stats and sentiment analysis of reviews,
 -   [`players-vs-reviews`](https://github.com/woctezuma/players-vs-reviews): discover games with an unusual ratio of number of players vs. number of reviews.
 
 ## VI. Miscellaneous
 
--   [`humble-monthly`](https://github.com/woctezuma/humble-monthly): analyze of the content of Humble Monthly Bundles.
+-   [`humble-monthly`](https://github.com/woctezuma/humble-monthly): analyze of the content of Humble Monthly Bundles,
 -   [`recent-sales`](https://github.com/woctezuma/recent-sales): a crude attempt at estimating Steam sales and revenue.
 
 ## VII. Data scraping
 
 ### 1. SteamSpy API
 
--   [`steamspypi`](https://github.com/woctezuma/steamspypi)
+-   [`steamspypi`](https://github.com/woctezuma/steamspypi): an API to download data through [SteamSpy API](https://steamspy.com/api.php).
 
 ### 2. Steam API
 
--   [`steampi`](https://github.com/woctezuma/steampi)
--   [`steam-api`](https://github.com/woctezuma/steam-api)
--   [`download-steam-reviews`](https://github.com/woctezuma/download-steam-reviews)
+-   [`steampi`](https://github.com/woctezuma/steampi): an API to download data (app details, release date) for a given appID through Steam API, and match game names to their appID,
+-   [`steam-api`](https://github.com/woctezuma/steam-api): download the list of all appIDs through Steam API, then download all the app details, create an aggregate similar to SteamSpy's (but more exhaustive), finally analyze store attributes and map tags. NB: store descriptions can be aggregated for [later processing](https://github.com/woctezuma/steam-portal#i-store-descriptions),
+-   [`download-steam-reviews`](https://github.com/woctezuma/download-steam-reviews): download every review for the game of your choice.
 
 ## VIII. Data snapshots
 
--   [`steam-api-data`](https://github.com/woctezuma/steam-api-data)
--   [`hidden-gems-data`](https://github.com/woctezuma/hidden-gems-data)
--   [`steam-reviews-data`](https://github.com/woctezuma/steam-reviews-data)
--   [`recent-sales-data`](https://github.com/woctezuma/recent-sales-data)
+-   [`steam-api-data`](https://github.com/woctezuma/steam-api-data): app details,
+-   [`hidden-gems-data`](https://github.com/woctezuma/hidden-gems-data): language stats for regional rankings of "hidden gems",
+-   [`steam-reviews-data`](https://github.com/woctezuma/steam-reviews-data): reviews,
+-   [`recent-sales-data`](https://github.com/woctezuma/recent-sales-data): aggregate of SteamSpy data between July 17th, 2017 and February 6th, 2018.
