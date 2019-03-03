@@ -42,9 +42,10 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 -   [`steam-reviews`](https://github.com/woctezuma/steam-reviews)
 -   [`players-vs-reviews`](https://github.com/woctezuma/players-vs-reviews)
 
-## VI. Sales
+## VI. Miscellaneous
 
--   [`recent-sales`](https://github.com/woctezuma/recent-sales)
+-   [`humble-monthly`](https://github.com/woctezuma/humble-monthly): Humble Monthly Bundles.
+-   [`recent-sales`](https://github.com/woctezuma/recent-sales): a crude attempt at estimating Steam sales.
 
 ## VII. Data scraping
 
