@@ -58,7 +58,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 -   [`steam-api`](https://github.com/woctezuma/steam-api)
 -   [`download-steam-reviews`](https://github.com/woctezuma/download-steam-reviews)
 
-### 3. Data snapshots
+## VIII. Data snapshots
 
 -   [`steam-api-data`](https://github.com/woctezuma/steam-api-data)
 -   [`hidden-gems-data`](https://github.com/woctezuma/hidden-gems-data)
