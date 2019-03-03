@@ -2,13 +2,13 @@
 
 This page lists my Github repositories which objective is to analyze [Steam](https://store.steampowered.com) data.
 
-## I. Store Descriptions
+## I. Store descriptions
 
-### 1. Similarity
+### Similarity
 
 -   [`steam-descriptions`](https://github.com/woctezuma/steam-descriptions): retrieve games with similar store descriptions.
 
-## II. Store Banners
+## II. Store banners
 
 ### 1. Similarity
 
