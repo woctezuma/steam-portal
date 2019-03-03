@@ -55,8 +55,9 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 ### 2. Steam API
 
--   [`steampi`](https://github.com/woctezuma/steampi): an API to download data (app details, release date) for a given appID through Steam API, and match game names to their appID,
--   [`steam-api`](https://github.com/woctezuma/steam-api): download the list of all appIDs through Steam API, then download all the app details, create an aggregate similar to SteamSpy's (but more exhaustive), finally analyze store attributes and map tags. NB: store descriptions can be aggregated for [later processing](https://github.com/woctezuma/steam-portal#i-store-descriptions),
+-   [`steampi`](https://github.com/woctezuma/steampi): download app details (including release date) through Steam API, and match names with appIDs,
+-   [`steam-api`](https://github.com/woctezuma/steam-api): download a list of all appIDs through Steam API, then download their app details, create an aggregate similar to SteamSpy's (but more exhaustive), finally analyze store attributes and map tags.
+NB: store descriptions can be aggregated for [later processing](https://github.com/woctezuma/steam-portal#i-store-descriptions),
 -   [`download-steam-reviews`](https://github.com/woctezuma/download-steam-reviews): download every review for the game of your choice.
 
 ## VIII. Data snapshots
