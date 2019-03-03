@@ -18,3 +18,41 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 -   [`google-colab`](https://github.com/woctezuma/google-colab): train a DCGAN to generate 28x28 store banners,
 -   [`steam-stylegan`](https://github.com/woctezuma/steam-stylegan): train a StyleGAN to generate 128x128 store banners.
+
+## III. Scores
+
+### 1. Rankings
+
+-   [`hidden-gems`](https://github.com/woctezuma/hidden-gems), which lead to my contribution to [Steam250](https://steam250.com/contributors).
+-   [`Steam-Bayesian-Average`](https://github.com/woctezuma/Steam-Bayesian-Average)
+-   [`hidden-demos`](https://github.com/woctezuma/hidden-demos)
+
+### 2. Annual vote
+
+-   [`metacouncil-goty`](https://github.com/woctezuma/metacouncil-goty)
+-   [`metacouncil-goty`](https://github.com/woctezuma/metacouncil-goty)
+
+## IV. Store tags
+
+-   [`steam-tag-mapping`](https://github.com/woctezuma/steam-tag-mapping)
+
+## V. Store reviews
+
+-   [`steam-reviews`](https://github.com/woctezuma/steam-reviews)
+
+## VI. Data scraping
+
+### 1. SteamSpy API
+
+-   [`steamspypi`](https://github.com/woctezuma/steamspypi)
+
+### 2. Steam API
+
+-   [`steam-api`](https://github.com/woctezuma/steam-api)
+
+### 3. Data snapshots
+
+-   [`steam-api-data`](https://github.com/woctezuma/steam-api-data)
+-   [`hidden-gems-data`](https://github.com/woctezuma/hidden-gems-data)
+-   [`steam-reviews-data`](https://github.com/woctezuma/steam-reviews-data)
+-   [`recent-sales-data`](https://github.com/woctezuma/recent-sales-data)
