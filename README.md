@@ -29,8 +29,8 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 ### 2. Community
 
--   [`steam-era-goty`](https://github.com/woctezuma/steam-era-goty): ranked-choice voting for Games of the Year Awards on [ResetERA/Steam](https://resetera.com) in 2017,
 -   [`metacouncil-goty`](https://github.com/woctezuma/metacouncil-goty): ranked-choice voting for Games of the Year Awards on [MetaCouncil/Steam](https://metacouncil.com) in 2018,
+-   [`steam-era-goty`](https://github.com/woctezuma/steam-era-goty): ranked-choice voting for Games of the Year Awards on [ResetERA/Steam](https://resetera.com) in 2017,
 -   [`steam-groups`](https://github.com/woctezuma/steam-groups): descriptive stats regarding the libraries of members of a Steam group.
 
 ## IV. Store tags
@@ -59,7 +59,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 -   [`steampi`](https://github.com/woctezuma/steampi): download app details (including release date) through Steam API, and match names with appIDs,
 -   [`steam-api`](https://github.com/woctezuma/steam-api): download a list of all appIDs through Steam API, then download their app details, create an aggregate similar to SteamSpy's (but more exhaustive), finally analyze store attributes and map tags.
 
-NB: store descriptions can be aggregated for [later processing](https://github.com/woctezuma/steam-portal#i-store-descriptions).
+NB: With `steam-api`, store descriptions can also be aggregated for [later processing](https://github.com/woctezuma/steam-portal#i-store-descriptions).
 
 ## VIII. Data snapshots
 
