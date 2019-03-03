@@ -23,29 +23,29 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 ### 1. Rankings
 
--   [`hidden-gems`](https://github.com/woctezuma/hidden-gems), which lead to my contribution to [Steam250](https://steam250.com/contributors).
--   [`Steam-Bayesian-Average`](https://github.com/woctezuma/Steam-Bayesian-Average)
--   [`hidden-demos`](https://github.com/woctezuma/hidden-demos)
+-   [`hidden-gems`](https://github.com/woctezuma/hidden-gems): rank games to discover "hidden gems". NB: This lead to my contribution to [Steam250](https://steam250.com/contributors),
+-   [`Steam-Bayesian-Average`](https://github.com/woctezuma/Steam-Bayesian-Average): rank of games, developers and publishers,
+-   [`hidden-demos`](https://github.com/woctezuma/hidden-demos): rank of games which offer a demo.
 
 ### 2. Community
 
--   [`steam-era-goty`](https://github.com/woctezuma/steam-era-goty)
--   [`metacouncil-goty`](https://github.com/woctezuma/metacouncil-goty)
--   [`steam-groups`](https://github.com/woctezuma/steam-groups)
+-   [`steam-era-goty`](https://github.com/woctezuma/steam-era-goty): ranked-choice voting for Games of the Year Awards on [ResetERA/Steam](https://resetera.com) in 2017,
+-   [`metacouncil-goty`](https://github.com/woctezuma/metacouncil-goty): ranked-choice voting for Games of the Year Awards on [MetaCouncil/Steam](https://metacouncil.com) in 2018,
+-   [`steam-groups`](https://github.com/woctezuma/steam-groups): descriptive stats regarding the libraries of members of a Steam group.
 
 ## IV. Store tags
 
--   [`steam-tag-mapping`](https://github.com/woctezuma/steam-tag-mapping)
+-   [`steam-tag-mapping`](https://github.com/woctezuma/steam-tag-mapping): visualize an embedding of Steam tags.
 
 ## V. Store reviews
 
--   [`steam-reviews`](https://github.com/woctezuma/steam-reviews)
--   [`players-vs-reviews`](https://github.com/woctezuma/players-vs-reviews)
+-   [`steam-reviews`](https://github.com/woctezuma/steam-reviews): stats and sentiment analysis of reviews.
+-   [`players-vs-reviews`](https://github.com/woctezuma/players-vs-reviews): discover games with an unusual ratio of number of players vs. number of reviews.
 
 ## VI. Miscellaneous
 
--   [`humble-monthly`](https://github.com/woctezuma/humble-monthly): Humble Monthly Bundles.
--   [`recent-sales`](https://github.com/woctezuma/recent-sales): a crude attempt at estimating Steam sales.
+-   [`humble-monthly`](https://github.com/woctezuma/humble-monthly): analyze of the content of Humble Monthly Bundles.
+-   [`recent-sales`](https://github.com/woctezuma/recent-sales): a crude attempt at estimating Steam sales and revenue.
 
 ## VII. Data scraping
 
