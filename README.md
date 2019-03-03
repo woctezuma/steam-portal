@@ -27,10 +27,11 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 -   [`Steam-Bayesian-Average`](https://github.com/woctezuma/Steam-Bayesian-Average)
 -   [`hidden-demos`](https://github.com/woctezuma/hidden-demos)
 
-### 2. Annual vote
+### 2. Community
 
+-   [`steam-era-goty`](https://github.com/woctezuma/steam-era-goty)
 -   [`metacouncil-goty`](https://github.com/woctezuma/metacouncil-goty)
--   [`metacouncil-goty`](https://github.com/woctezuma/metacouncil-goty)
+-   [`steam-groups`](https://github.com/woctezuma/steam-groups)
 
 ## IV. Store tags
 
@@ -39,8 +40,13 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 ## V. Store reviews
 
 -   [`steam-reviews`](https://github.com/woctezuma/steam-reviews)
+-   [`players-vs-reviews`](https://github.com/woctezuma/players-vs-reviews)
 
-## VI. Data scraping
+## VI. Sales
+
+-   [`recent-sales`](https://github.com/woctezuma/recent-sales)
+
+## VII. Data scraping
 
 ### 1. SteamSpy API
 
@@ -48,7 +54,9 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 ### 2. Steam API
 
+-   [`steampi`](https://github.com/woctezuma/steampi)
 -   [`steam-api`](https://github.com/woctezuma/steam-api)
+-   [`download-steam-reviews`](https://github.com/woctezuma/download-steam-reviews)
 
 ### 3. Data snapshots
 
