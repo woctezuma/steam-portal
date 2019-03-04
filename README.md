@@ -51,12 +51,12 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 ### 1. SteamSpy API
 
--   [`steamspypi`](https://github.com/woctezuma/steamspypi) @[PyPI](https://pypi.org/project/steamspypi/): an API to download data through [SteamSpy API](https://steamspy.com/api.php).
+-   [`steamspypi`](https://github.com/woctezuma/steamspypi)@[PyPI](https://pypi.org/project/steamspypi/): an API to download data through [SteamSpy API](https://steamspy.com/api.php).
 
 ### 2. Steam API
 
--   [`download-steam-reviews`](https://github.com/woctezuma/download-steam-reviews) @[PyPI](https://pypi.org/project/steamreviews/): download every review for the game of your choice,
--   [`steampi`](https://github.com/woctezuma/steampi) @[PyPI](https://pypi.org/project/steampi/): download app details (including release date) through Steam API, and match names with appIDs,
+-   [`download-steam-reviews`](https://github.com/woctezuma/download-steam-reviews)@[PyPI](https://pypi.org/project/steamreviews/): download every review for the game of your choice,
+-   [`steampi`](https://github.com/woctezuma/steampi)@[PyPI](https://pypi.org/project/steampi/): download app details (including release date) through Steam API, and match names with appIDs,
 -   [`steam-api`](https://github.com/woctezuma/steam-api): download a list of all appIDs through Steam API, then download their app details, create an aggregate similar to SteamSpy's (but more exhaustive), finally analyze store attributes and map tags.
 
 NB: With `steam-api`, store descriptions can also be aggregated for [later processing](https://github.com/woctezuma/steam-portal#i-store-descriptions).
