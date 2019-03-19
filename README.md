@@ -65,7 +65,7 @@ NB: With `steam-api`, store descriptions can also be aggregated for [later proce
 ## VIII. Data snapshots
 
 -   [`steam-api-data`](https://github.com/woctezuma/steam-api-data): app details,
--   [download-steam-banners-data](https://github.com/woctezuma/download-steam-banners-data): store banners,
+-   [`download-steam-banners-data`](https://github.com/woctezuma/download-steam-banners-data): store banners,
 -   [`steam-reviews-data`](https://github.com/woctezuma/steam-reviews-data): reviews,
 -   [`hidden-gems-data`](https://github.com/woctezuma/hidden-gems-data): language stats for regional rankings of "hidden gems",
 -   [`recent-sales-data`](https://github.com/woctezuma/recent-sales-data): aggregate of SteamSpy data between July 17th, 2017 and February 6th, 2018.
