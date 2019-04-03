@@ -24,8 +24,8 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 ### 1. Rankings
 
 -   [`hidden-gems`](https://github.com/woctezuma/hidden-gems): rank games to discover "hidden gems". NB: This lead to my contribution to [Steam250](https://steam250.com/contributors),
--   [`Steam-Bayesian-Average`](https://github.com/woctezuma/Steam-Bayesian-Average): rank of games, developers and publishers,
--   [`hidden-demos`](https://github.com/woctezuma/hidden-demos): rank of games which offer a demo.
+-   [`Steam-Bayesian-Average`](https://github.com/woctezuma/Steam-Bayesian-Average): rank games, developers and publishers,
+-   [`hidden-demos`](https://github.com/woctezuma/hidden-demos): rank games which offer a demo.
 
 ### 2. Community
 
