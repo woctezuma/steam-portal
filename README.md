@@ -41,6 +41,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 -   [`steam-reviews`](https://github.com/woctezuma/steam-reviews): stats and sentiment analysis of reviews,
 -   [`sample-steam-reviews`](https://github.com/woctezuma/sample-steam-reviews): sample reviews for the game called « Artifact »,
+-   [`steam-cut`](https://github.com/woctezuma/steam-cut): fetch the number of reviews for Steam and non-Steam purchases,
 -   [`players-vs-reviews`](https://github.com/woctezuma/players-vs-reviews): discover games with an unusual ratio of number of players vs. number of reviews.
 
 ## VI. Miscellaneous
