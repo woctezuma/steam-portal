@@ -35,6 +35,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 ## IV. Store tags
 
+-   [`match-steam-tags`](https://github.com/woctezuma/match-steam-tags)@[PyPI](https://pypi.org/project/steamtags/): download and match Steam tags with appIDs,
 -   [`steam-tag-mapping`](https://github.com/woctezuma/steam-tag-mapping): visualize an embedding of Steam tags.
 
 ## V. Store reviews
