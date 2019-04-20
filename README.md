@@ -4,9 +4,13 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 ## I. Store descriptions
 
-### Similarity
+### 1. Similarity
 
 -   [`steam-descriptions`](https://github.com/woctezuma/steam-descriptions): retrieve games with similar store descriptions.
+
+### 2. Generative Language Model
+
+-   [`sample-steam-descriptions`](https://github.com/woctezuma/sample-steam-descriptions): sample store descriptions, with the GPT-2 language model.
 
 ## II. Store banners
 
