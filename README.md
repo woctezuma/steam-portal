@@ -59,7 +59,8 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 ## VI. Miscellaneous
 
 -   [`humble-monthly`](https://github.com/woctezuma/humble-monthly): analyze of the content of Humble Monthly Bundles,
--   [`recent-sales`](https://github.com/woctezuma/recent-sales): a crude attempt at estimating Steam sales and revenue.
+-   [`recent-sales`](https://github.com/woctezuma/recent-sales): a crude attempt at estimating Steam sales and revenue,
+-   [`steam-market`](https://github.com/woctezuma/steam-market): find arbitrages on the Steam Market.
 
 ## VII. Data scraping
 
