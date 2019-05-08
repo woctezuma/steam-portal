@@ -48,7 +48,8 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 ### 1. Generative Language Model
 
 -   [`sample-steam-reviews`](https://github.com/woctezuma/sample-steam-reviews): sample reviews, with different methods (including GPT-2),
--   [`sample-steam-reviews-with-gpt-2`](https://github.com/woctezuma/sample-steam-reviews-with-gpt-2): sample reviews, with the GPT-2 language model. The code is shorter and simpler.
+-   [`sample-steam-reviews-with-gpt-2`](https://github.com/woctezuma/sample-steam-reviews-with-gpt-2): sample reviews, with the GPT-2 language model. The code is shorter and simpler,
+-   [`sample-steam-reviews-with-gpt-2-checkpoints`](https://github.com/woctezuma/sample-steam-reviews-with-gpt-2-checkpoints): checkpoints saved while fine-tuning GPT-2.
 
 ### 2. Stats
 
