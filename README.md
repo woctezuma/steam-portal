@@ -17,15 +17,20 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 ### 1. Similarity
 
--   [`download-steam-banners`](https://github.com/woctezuma/download-steam-banners): retrieve games with similar store banners,
--   [`download-steam-screenshots`](https://github.com/woctezuma/download-steam-screenshots): retrieve games with similar store screenshots.
+-   [`download-steam-banners`](https://github.com/woctezuma/download-steam-banners): retrieve games with similar store banners.
 
 ### 2. Generative Adversarial Networks
 
 -   [`google-colab`](https://github.com/woctezuma/google-colab): train a [DCGAN](https://arxiv.org/abs/1511.06434) to generate 28x28 store banners,
 -   [`steam-stylegan`](https://github.com/woctezuma/steam-stylegan): train a [StyleGAN](https://arxiv.org/abs/1812.04948) to generate 128x128 store banners.
 
-## III. Scores
+## III. Store screenshots
+
+### 1. Similarity
+
+-   [`download-steam-screenshots`](https://github.com/woctezuma/download-steam-screenshots): retrieve games with similar store screenshots.
+
+## IV. Scores
 
 ### 1. Rankings
 
@@ -39,12 +44,12 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 -   [`steam-era-goty`](https://github.com/woctezuma/steam-era-goty): ranked-choice voting for Games of the Year Awards on [ResetERA/Steam](https://resetera.com) in 2017,
 -   [`steam-groups`](https://github.com/woctezuma/steam-groups): descriptive stats regarding the libraries of members of a Steam group.
 
-## IV. Store tags
+## V. Store tags
 
 -   [`match-steam-tags`](https://github.com/woctezuma/match-steam-tags)@[PyPI](https://pypi.org/project/steamtags/): download and match Steam tags with appIDs,
 -   [`steam-tag-mapping`](https://github.com/woctezuma/steam-tag-mapping): visualize an embedding of Steam tags.
 
-## V. Store reviews
+## VI. Store reviews
 
 ### 1. Generative Language Model
 
@@ -58,13 +63,13 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 -   [`steam-cut`](https://github.com/woctezuma/steam-cut): fetch the number of reviews for Steam and non-Steam purchases,
 -   [`players-vs-reviews`](https://github.com/woctezuma/players-vs-reviews): discover games with an unusual ratio of number of players vs. number of reviews.
 
-## VI. Miscellaneous
+## VII. Miscellaneous
 
 -   [`humble-monthly`](https://github.com/woctezuma/humble-monthly): analyze of the content of Humble Monthly Bundles,
 -   [`recent-sales`](https://github.com/woctezuma/recent-sales): a crude attempt at estimating Steam sales and revenue,
 -   [`steam-market`](https://github.com/woctezuma/steam-market): find arbitrages on the Steam Market.
 
-## VII. Data scraping
+## VIII. Data scraping
 
 ### 1. SteamSpy API
 
@@ -78,7 +83,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 NB: With `steam-api`, store descriptions can also be aggregated for [later processing](https://github.com/woctezuma/steam-portal#i-store-descriptions).
 
-## VIII. Data snapshots
+## IX. Data snapshots
 
 -   [`steam-api-data`](https://github.com/woctezuma/steam-api-data): app details,
 -   [`download-steam-banners-data`](https://github.com/woctezuma/download-steam-banners-data): store banners,
