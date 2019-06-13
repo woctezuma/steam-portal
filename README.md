@@ -30,7 +30,21 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 -   [`download-steam-screenshots`](https://github.com/woctezuma/download-steam-screenshots): retrieve games with similar store screenshots.
 
-## IV. Scores
+## IV. Store reviews
+
+### 1. Generative Language Model
+
+-   [`sample-steam-reviews`](https://github.com/woctezuma/sample-steam-reviews): sample reviews, with different methods (including GPT-2),
+-   [`sample-steam-reviews-with-gpt-2`](https://github.com/woctezuma/sample-steam-reviews-with-gpt-2): sample reviews, with the GPT-2 language model. The code is shorter and simpler,
+-   [`sample-steam-reviews-with-gpt-2-checkpoints`](https://github.com/woctezuma/sample-steam-reviews-with-gpt-2-checkpoints): checkpoints saved while fine-tuning GPT-2.
+
+### 2. Stats
+
+-   [`steam-reviews`](https://github.com/woctezuma/steam-reviews): stats and sentiment analysis of reviews,
+-   [`steam-cut`](https://github.com/woctezuma/steam-cut): fetch the number of reviews for Steam and non-Steam purchases,
+-   [`players-vs-reviews`](https://github.com/woctezuma/players-vs-reviews): discover games with an unusual ratio of number of players vs. number of reviews.
+
+## V. Scores
 
 ### 1. Rankings
 
@@ -44,24 +58,10 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 -   [`steam-era-goty`](https://github.com/woctezuma/steam-era-goty): ranked-choice voting for Games of the Year Awards on [ResetERA/Steam](https://resetera.com) in 2017,
 -   [`steam-groups`](https://github.com/woctezuma/steam-groups): descriptive stats regarding the libraries of members of a Steam group.
 
-## V. Store tags
+## VI. Store tags
 
 -   [`match-steam-tags`](https://github.com/woctezuma/match-steam-tags)@[PyPI](https://pypi.org/project/steamtags/): download and match Steam tags with appIDs,
 -   [`steam-tag-mapping`](https://github.com/woctezuma/steam-tag-mapping): visualize an embedding of Steam tags.
-
-## VI. Store reviews
-
-### 1. Generative Language Model
-
--   [`sample-steam-reviews`](https://github.com/woctezuma/sample-steam-reviews): sample reviews, with different methods (including GPT-2),
--   [`sample-steam-reviews-with-gpt-2`](https://github.com/woctezuma/sample-steam-reviews-with-gpt-2): sample reviews, with the GPT-2 language model. The code is shorter and simpler,
--   [`sample-steam-reviews-with-gpt-2-checkpoints`](https://github.com/woctezuma/sample-steam-reviews-with-gpt-2-checkpoints): checkpoints saved while fine-tuning GPT-2.
-
-### 2. Stats
-
--   [`steam-reviews`](https://github.com/woctezuma/steam-reviews): stats and sentiment analysis of reviews,
--   [`steam-cut`](https://github.com/woctezuma/steam-cut): fetch the number of reviews for Steam and non-Steam purchases,
--   [`players-vs-reviews`](https://github.com/woctezuma/players-vs-reviews): discover games with an unusual ratio of number of players vs. number of reviews.
 
 ## VII. Miscellaneous
 
