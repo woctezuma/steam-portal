@@ -23,7 +23,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 -   [`google-colab`](https://github.com/woctezuma/google-colab): train a [DCGAN](https://arxiv.org/abs/1511.06434) to generate 28x28 store banners,
 -   [`steam-stylegan`](https://github.com/woctezuma/steam-stylegan): train a [StyleGAN](https://arxiv.org/abs/1812.04948) to generate 128x128 store banners,
--   [`steam-stylegan2`](https://github.com/woctezuma/steam-stylegan2): train a [StyleGAN2](http://arxiv.org/abs/1912.04958) to generate 128x128 store banners.
+-   [`steam-stylegan2`](https://github.com/woctezuma/steam-stylegan2): train a [StyleGAN2](http://arxiv.org/abs/1912.04958) to generate 256x256 store banners.
 
 ## III. Store screenshots
 
