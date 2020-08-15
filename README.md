@@ -17,7 +17,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 ### 1. Similarity
 
--   [`download-steam-banners`](https://github.com/woctezuma/download-steam-banners): retrieve games with similar store banners.
+-   [`download-steam-banners`](https://github.com/woctezuma/download-steam-banners): retrieve games with similar store banners, using MobileNet (alpha 0.25, input 128x128x3).
 
 ### 2. Generative Adversarial Networks
 
@@ -29,7 +29,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 ### 1. Similarity
 
--   [`download-steam-screenshots`](https://github.com/woctezuma/download-steam-screenshots): retrieve games with similar store screenshots.
+-   [`download-steam-screenshots`](https://github.com/woctezuma/download-steam-screenshots): retrieve games with similar store screenshots, using MobileNet (alpha 0.25, input 128x128x3).
 
 ## IV. Store reviews
 
