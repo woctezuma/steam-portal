@@ -76,11 +76,15 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 ## VIII. Data scraping
 
-### 1. SteamSpy API
+### 1. GameDataCrunch API
+
+-   [`gamedatacrunch`](https://github.com/woctezuma/gamedatacrunch)@[PyPI](https://pypi.org/project/gamedatacrunch/): an API to download data through [GameDataCrunch API](https://www.gamedatacrunch.com/).
+
+### 2. SteamSpy API
 
 -   [`steamspypi`](https://github.com/woctezuma/steamspypi)@[PyPI](https://pypi.org/project/steamspypi/): an API to download data through [SteamSpy API](https://steamspy.com/api.php).
 
-### 2. Steam API
+### 3. Steam API
 
 -   [`download-steam-reviews`](https://github.com/woctezuma/download-steam-reviews)@[PyPI](https://pypi.org/project/steamreviews/): download every review for the game of your choice,
 -   [`steampi`](https://github.com/woctezuma/steampi)@[PyPI](https://pypi.org/project/steampi/): download app details (including release date) through Steam API, and match names with appIDs,
