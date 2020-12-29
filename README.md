@@ -26,6 +26,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 -   [`steam-stylegan`](https://github.com/woctezuma/steam-stylegan): train a [StyleGAN](https://arxiv.org/abs/1812.04948) to generate 128x128 store banners,
 -   [`steam-stylegan2`](https://github.com/woctezuma/steam-stylegan2): train a [StyleGAN2](http://arxiv.org/abs/1912.04958) to generate 256x256 store banners.
 -   [`steam-stylegan2-ada`](https://github.com/woctezuma/steam-stylegan2-ada): train a [StyleGAN2-ADA](https://arxiv.org/abs/2006.06676) to generate store banners.
+-   [`steam-lightweight-gan`](https://github.com/woctezuma/steam-lightweight-gan): train a ["lightweight GAN"](https://github.com/lucidrains/lightweight-gan) to generate 256x256 store banners.
 
 ### 3. Face detection
 
