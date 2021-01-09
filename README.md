@@ -101,6 +101,7 @@ NB: With `steam-api`, store descriptions can also be aggregated for [later proce
 
 ## IX. Data snapshots
 
+-   [`steam-store-snapshots`](https://github.com/woctezuma/steam-store-snapshots): app lists,
 -   [`steam-api-data`](https://github.com/woctezuma/steam-api-data): app details,
 -   [`download-steam-banners-data`](https://github.com/woctezuma/download-steam-banners-data): store banners,
 -   [`download-steam-screenshots-data`](https://github.com/woctezuma/download-steam-screenshots-data): store screenshots,
