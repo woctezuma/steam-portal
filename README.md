@@ -19,7 +19,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 -   [`download-steam-banners`](https://github.com/woctezuma/download-steam-banners): retrieve games with similar store banners, using MobileNet (alpha 0.25, input 128x128x3).
 -   [`match-steam-banners`](https://github.com/woctezuma/match-steam-banners): retrieve games with similar store banners, using MobileNet v3 (alpha 1.00, input 256x256x3).
--   [`steam-CLIP`](https://github.com/woctezuma/steam-CLIP): retrieve games with similar store banners, using OpenAI's CLIP (input 224x224x3).
+-   [`steam-CLIP`][banner-repository-CLIP]: retrieve games with similar store banners, using OpenAI's CLIP (input 224x224x3).
 
 ### 2. Generative Adversarial Networks
 
@@ -99,6 +99,10 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 NB: With `steam-api`, store descriptions can also be aggregated for [later processing](https://github.com/woctezuma/steam-portal#i-store-descriptions).
 
+### 4. My own API
+
+-   [`heroku-flask-api`][my-flask-API]: serve the [matching][banner-repository-CLIP] results through an API built with Flask on Heroku,
+
 ## IX. Data snapshots
 
 -   [`steam-store-snapshots`](https://github.com/woctezuma/steam-store-snapshots): app lists,
@@ -109,3 +113,8 @@ NB: With `steam-api`, store descriptions can also be aggregated for [later proce
 -   [`steam-reviews-data`](https://github.com/woctezuma/steam-reviews-data): reviews,
 -   [`hidden-gems-data`](https://github.com/woctezuma/hidden-gems-data): language stats for regional rankings of "hidden gems",
 -   [`recent-sales-data`](https://github.com/woctezuma/recent-sales-data): aggregate of SteamSpy data between July 17th, 2017 and February 6th, 2018.
+
+<!-- Definitions -->
+
+[my-flask-API]: <https://github.com/woctezuma/heroku-flask-api>
+[banner-repository-CLIP]: <https://github.com/woctezuma/steam-CLIP>
