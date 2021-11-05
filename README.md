@@ -20,18 +20,26 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 -   [`download-steam-banners`](https://github.com/woctezuma/download-steam-banners): retrieve games with similar store banners, using MobileNet (alpha 0.25, input 128x128x3).
 -   [`match-steam-banners`](https://github.com/woctezuma/match-steam-banners): retrieve games with similar store banners, using MobileNet v3 (alpha 1.00, input 256x256x3).
 -   [`steam-CLIP`][banner-repository-CLIP]: retrieve games with similar store banners, using OpenAI's CLIP (input 224x224x3).
+-   [`steam-DINO`](https://github.com/woctezuma/steam-DINO): retrieve games with similar store banners, using Facebook's DINO (input 224x224x3),
+-   [`steam-BiT`](https://github.com/woctezuma/steam-BiT): retrieve games with similar store banners, using Google's Big Transfer (BiT) (input 224x224x3),
+-   [`steam-BEiT`](https://github.com/woctezuma/steam-BEiT): retrieve games with similar store banners, using Microsoft's Bidirectional Encoder representation from Image Transformers (BEiT) (input 224x224x3),
 
 ### 2. Generative Adversarial Networks
 
 -   [`google-colab`](https://github.com/woctezuma/google-colab): train a [DCGAN](https://arxiv.org/abs/1511.06434) to generate 28x28 store banners,
 -   [`steam-stylegan`](https://github.com/woctezuma/steam-stylegan): train a [StyleGAN](https://arxiv.org/abs/1812.04948) to generate 128x128 store banners,
 -   [`steam-stylegan2`](https://github.com/woctezuma/steam-stylegan2): train a [StyleGAN2](http://arxiv.org/abs/1912.04958) to generate 256x256 store banners.
--   [`steam-stylegan2-ada`](https://github.com/woctezuma/steam-stylegan2-ada): train a [StyleGAN2-ADA](https://arxiv.org/abs/2006.06676) to generate 256x256 store banners.
+-   [`steam-stylegan2-ada`](https://github.com/woctezuma/steam-stylegan2-ada): train a [StyleGAN2-ADA][stylegan2-ada-paper] to generate 256x256 store banners.
 -   [`steam-lightweight-gan`](https://github.com/woctezuma/steam-lightweight-gan): train a ["lightweight GAN"](https://github.com/lucidrains/lightweight-gan) to generate 256x256 store banners.
+-   [`steam-stylegan2-ada-pytorch`](https://github.com/woctezuma/steam-stylegan2-ada-pytorch): train a [StyleGAN2-ADA][stylegan2-ada-paper] (PyTorch) to generate 256x256 store banners.
 
 ### 3. Face detection
 
 -   [`steam-face-detection`](https://github.com/woctezuma/steam-face-detection): detect (and count) faces on Steam store/library banners, for filtering purposes.
+
+### 4. Search engine
+
+-   [`steam-image-search`](https://github.com/woctezuma/steam-image-search): search for images on Steam using natural language queries.
 
 ## III. Store screenshots
 
@@ -51,6 +59,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 -   [`steam-reviews`](https://github.com/woctezuma/steam-reviews): stats and sentiment analysis of reviews,
 -   [`steam-cut`](https://github.com/woctezuma/steam-cut): fetch the number of reviews for Steam and non-Steam purchases,
 -   [`players-vs-reviews`](https://github.com/woctezuma/players-vs-reviews): discover games with an unusual ratio of number of players vs. number of reviews.
+-   [`steam-reviews-to-sales`](https://github.com/woctezuma/steam-reviews-to-sales): study the relationship between review numbers and sales of games,
 
 ## V. Scores
 
@@ -80,6 +89,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 -   [`steam-trade-finder`](https://github.com/woctezuma/steam-trade-finder): find Steam trades for a given appID,
 -   [`steam-market`](https://github.com/woctezuma/steam-market): find arbitrages on the Steam Market.
 -   [`steam-points-shop`](https://github.com/woctezuma/steam-points-shop): find games which have been removed from the [Steam Points Shop](https://store.steampowered.com/points/shop/).
+-   [`AmongUs-DAU`](https://github.com/woctezuma/AmongUs-DAU): compute "Daily Active Users" (DAU) of Among Us from "Concurrent Connected Users" (CCU),
 
 ## VIII. Data scraping
 
@@ -101,7 +111,16 @@ NB: With `steam-api`, store descriptions can also be aggregated for [later proce
 
 ### 4. My own API
 
+#### i) Heroku endpoints
+
 -   [`heroku-flask-api`][my-flask-API]: serve the [matching][banner-repository-CLIP] results through an API built with Flask on Heroku,
+-   [`heroku-levenshtein-api`](https://github.com/woctezuma/heroku-levenshtein-api): match game names with Levenshtein distance through an API built with Flask on Heroku,
+-   [`heroku-clip`](https://github.com/woctezuma/heroku-clip): classify images through an API built with Streamlit on Heroku,
+
+#### i) API utils
+
+-   [`steam-svelte-autocomplete`](https://github.com/woctezuma/steam-svelte-autocomplete): auto-complete game names with Svelte,
+-   [`steam-popular-appids`](https://github.com/woctezuma/steam-popular-appids): create a **short** list of popular Steam appIDs,
 
 ## IX. Data snapshots
 
@@ -114,7 +133,13 @@ NB: With `steam-api`, store descriptions can also be aggregated for [later proce
 -   [`hidden-gems-data`](https://github.com/woctezuma/hidden-gems-data): language stats for regional rankings of "hidden gems",
 -   [`recent-sales-data`](https://github.com/woctezuma/recent-sales-data): aggregate of SteamSpy data between July 17th, 2017 and February 6th, 2018.
 
+## X. Data leaks
+
+-   [`egs-datamining`](https://github.com/woctezuma/egs-datamining): datamining of Epic Games Store (EGS),
+-   [`geforce-leak`](https://github.com/woctezuma/geforce-leak): datamining of Nvidia's GeForce NOW (GFN),
+
 <!-- Definitions -->
 
 [my-flask-API]: <https://github.com/woctezuma/heroku-flask-api>
 [banner-repository-CLIP]: <https://github.com/woctezuma/steam-CLIP>
+[stylegan2-ada-paper]: <https://arxiv.org/abs/2006.06676>
