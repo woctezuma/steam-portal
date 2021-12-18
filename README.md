@@ -135,6 +135,7 @@ NB: With `steam-api`, store descriptions can also be aggregated for [later proce
 
 ## X. Data leaks
 
+-   [`egs-15DaysofGames`](https://github.com/woctezuma/egs-15DaysofGames): datamining of 15 Days of (free) Games at the Epic Games Store (EGS),
 -   [`egs-datamining`](https://github.com/woctezuma/egs-datamining): datamining of Epic Games Store (EGS),
 -   [`geforce-leak`](https://github.com/woctezuma/geforce-leak): datamining of Nvidia's GeForce NOW (GFN),
 
