@@ -90,6 +90,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 -   [`steam-market`](https://github.com/woctezuma/steam-market): find arbitrages on the Steam Market.
 -   [`steam-points-shop`](https://github.com/woctezuma/steam-points-shop): find games which have been removed from the [Steam Points Shop](https://store.steampowered.com/points/shop/).
 -   [`AmongUs-DAU`](https://github.com/woctezuma/AmongUs-DAU): compute "Daily Active Users" (DAU) of Among Us from "Concurrent Connected Users" (CCU),
+-   [`bundle-split`](https://github.com/woctezuma/bundle-split): fetch bundle content, then price bundle split based on prices at keyshop resellers.
 
 ## VIII. Data scraping
 
