@@ -142,6 +142,7 @@ NB: With `steam-api`, store descriptions can also be aggregated for [later proce
 -   [`egs-datamining`](https://github.com/woctezuma/egs-datamining): datamining of unreleased games on the Epic Games Store (EGS),
 -   [`epic-games-ratings`](https://github.com/woctezuma/epic-games-ratings): Bayesian average ratings of games at EGS,
 -   [`epic-games-achievements`](https://github.com/woctezuma/epic-games-achievements): stats with respect to achievements at EGS,
+-   [`epic-games-player-estimates`](https://github.com/woctezuma/epic-games-player-estimates): a simultaenous look at ratings and achievements at EGS,
 -   [`geforce-leak`](https://github.com/woctezuma/geforce-leak): datamining of Nvidia's GeForce NOW (GFN),
 
 <!-- Definitions -->
