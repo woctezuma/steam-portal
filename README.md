@@ -138,12 +138,12 @@ NB: With `steam-api`, store descriptions can also be aggregated for [later proce
 
 ## X. Data leaks
 
--   [`egs-15DaysofGames`](https://github.com/woctezuma/egs-15DaysofGames): datamining of 15 Days of (free) Games at the Epic Games Store (EGS),
+-   [`egs-15DaysofGames`](https://github.com/woctezuma/egs-15DaysofGames): datamining of 15 Days of (free) Games on the Epic Games Store (EGS),
 -   [`egs-datamining`](https://github.com/woctezuma/egs-datamining): datamining of unreleased games on the Epic Games Store (EGS),
--   [`epic-games-ratings`](https://github.com/woctezuma/epic-games-ratings): Bayesian average ratings of games at EGS,
--   [`epic-games-achievements`](https://github.com/woctezuma/epic-games-achievements): stats with respect to achievements at EGS,
--   [`epic-games-tracker`](https://github.com/woctezuma/epic-games-tracker): track the numbers of players and ratings on the Epic Games store (EGS),
--   [`epic-games-player-estimates`](https://github.com/woctezuma/epic-games-player-estimates): a simultaenous look at ratings and achievements at EGS,
+-   [`epic-games-ratings`](https://github.com/woctezuma/epic-games-ratings): Bayesian average ratings of games on the Epic Games Store,
+-   [`epic-games-achievements`](https://github.com/woctezuma/epic-games-achievements): achievements on the Epic Games Store,
+-   [`epic-games-tracker`](https://github.com/woctezuma/epic-games-tracker): track the numbers of players and ratings on the Epic Games Store,
+-   [`epic-games-player-estimates`](https://github.com/woctezuma/epic-games-player-estimates): correlate the numbers of players and ratings on the Epic Games Store,
 -   [`geforce-leak`](https://github.com/woctezuma/geforce-leak): datamining of Nvidia's GeForce NOW (GFN),
 
 <!-- Definitions -->
