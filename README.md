@@ -143,6 +143,7 @@ NB: With `steam-api`, store descriptions can also be aggregated for [later proce
 -   [`epic-games-ratings`](https://github.com/woctezuma/epic-games-ratings): Bayesian average ratings of games on the Epic Games Store,
 -   [`epic-games-achievements`](https://github.com/woctezuma/epic-games-achievements): achievements on the Epic Games Store,
 -   [`epic-games-tracker`](https://github.com/woctezuma/epic-games-tracker): track the numbers of players and ratings on the Epic Games Store,
+-   [`epic-games-promotion-tracker`](https://github.com/woctezuma/epic-games-promotion-tracker): track upcoming promotional offers on the Epic Games store,
 -   [`epic-games-player-estimates`](https://github.com/woctezuma/epic-games-player-estimates): correlate the numbers of players and ratings on the Epic Games Store,
 -   [`geforce-leak`](https://github.com/woctezuma/geforce-leak): datamining of Nvidia's GeForce NOW (GFN),
 
