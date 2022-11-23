@@ -93,6 +93,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 -   [`bundle-split`](https://github.com/woctezuma/bundle-split): fetch bundle content, then price bundle split based on prices at keyshop resellers.
 -   [`steampy-buy-orders`](https://github.com/woctezuma/steampy-buy-orders): automatically set buy orders on the Steam Market with steampy. 
 -   [`steam-next-fest`](https://github.com/woctezuma/steam-next-fest): fetch new demos from the Steam Next Fest, then play them as fast as possible.
+-   [`add-free-licenses`](https://github.com/woctezuma/add-free-licenses): automatically add free licenses on Steam with ASF IPC.
 
 ## VIII. Data scraping
 
