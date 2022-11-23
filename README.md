@@ -124,6 +124,7 @@ NB: With `steam-api`, store descriptions can also be aggregated for [later proce
 
 -   [`steam-svelte-autocomplete`](https://github.com/woctezuma/steam-svelte-autocomplete): auto-complete game names with Svelte,
 -   [`steam-popular-appids`](https://github.com/woctezuma/steam-popular-appids): create a **short** list of popular Steam appIDs,
+-   [`steam-curator-release-dates`](https://github.com/woctezuma/steam-curator-release-dates): query Steam API to reveal **hidden** release dates,
 
 ## IX. Data snapshots
 
