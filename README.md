@@ -94,6 +94,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 -   [`steampy-buy-orders`](https://github.com/woctezuma/steampy-buy-orders): automatically set buy orders on the Steam Market with steampy. 
 -   [`steam-next-fest`](https://github.com/woctezuma/steam-next-fest): fetch new demos from the Steam Next Fest, then play them as fast as possible.
 -   [`add-free-licenses`](https://github.com/woctezuma/add-free-licenses): automatically add free licenses on Steam with ASF IPC.
+-   [`steam-player-level-percentiles`](https://github.com/woctezuma/steam-player-level-percentiles): query and analyze percentiles of player levels on Steam.
 
 ## VIII. Data scraping
 
