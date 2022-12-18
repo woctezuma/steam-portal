@@ -40,6 +40,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 ### 4. Search engine
 
 -   [`steam-image-search`](https://github.com/woctezuma/steam-image-search): search for images on Steam using natural language queries.
+-   [`steam-template-matching`](https://github.com/woctezuma/steam-template-matching): perform template matching with Steam store images.
 
 ## III. Store screenshots
 
