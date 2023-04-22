@@ -17,8 +17,8 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 ### 1. Similarity
 
--   [`download-steam-banners`](https://github.com/woctezuma/download-steam-banners): retrieve games with similar store banners, using MobileNet (alpha 0.25, input 128x128x3).
--   [`match-steam-banners`](https://github.com/woctezuma/match-steam-banners): retrieve games with similar store banners, using MobileNet v3 (alpha 1.00, input 256x256x3).
+-   [`download-steam-banners`](https://github.com/woctezuma/download-steam-banners): retrieve games with similar banners, using MobileNet (alpha 0.25, input 128x128x3).
+-   [`match-steam-banners`](https://github.com/woctezuma/match-steam-banners): retrieve games with similar banners, using MobileNet v3 (alpha 1.00, input 256x256x3).
 -   [`steam-CLIP`][banner-repository-CLIP]: retrieve games with similar store banners, using OpenAI's CLIP (input 224x224x3).
 -   [`steam-DINO`](https://github.com/woctezuma/steam-DINO): retrieve games with similar store banners, using Facebook's DINO (input 224x224x3),
 -   [`steam-DINOv2`](https://github.com/woctezuma/steam-DINOv2): retrieve games with similar store banners, using Meta AI's DINOv2,
