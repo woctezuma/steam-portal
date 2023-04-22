@@ -54,7 +54,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 ### 1. Generative Language Model
 
 -   [`sample-steam-reviews`](https://github.com/woctezuma/sample-steam-reviews): sample reviews, with different methods (including GPT-2),
--   [`sample-steam-reviews-with-gpt-2`](https://github.com/woctezuma/sample-steam-reviews-with-gpt-2): sample reviews, with the GPT-2 language model. The code is shorter and simpler.
+-   [`sample-steam-reviews-with-gpt-2`](https://github.com/woctezuma/sample-steam-reviews-with-gpt-2): sample reviews, with the GPT-2 language model. Shorter & simpler code.
 
 ### 2. Stats
 
@@ -111,7 +111,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 ### 3. Steam API
 
 -   [`download-steam-reviews`](https://github.com/woctezuma/download-steam-reviews)@[PyPI](https://pypi.org/project/steamreviews/): download every review for the game of your choice,
--   [`steampi`](https://github.com/woctezuma/steampi)@[PyPI](https://pypi.org/project/steampi/): download app details (including release date) through Steam API, and match names with appIDs,
+-   [`steampi`](https://github.com/woctezuma/steampi)@[PyPI](https://pypi.org/project/steampi/): download app details (including release date) via Steam API, and match names with appIDs,
 -   [`steam-api`](https://github.com/woctezuma/steam-api): download a list of all appIDs through Steam API, then download their app details, create an aggregate similar to SteamSpy's (but more exhaustive), finally analyze store attributes and map tags.
 
 NB: With `steam-api`, store descriptions can also be aggregated for [later processing](https://github.com/woctezuma/steam-portal#i-store-descriptions).
@@ -121,7 +121,7 @@ NB: With `steam-api`, store descriptions can also be aggregated for [later proce
 #### i) Heroku endpoints
 
 -   [`heroku-flask-api`][my-flask-API]: serve the [matching][banner-repository-CLIP] results through an API built with Flask on Heroku,
--   [`heroku-levenshtein-api`](https://github.com/woctezuma/heroku-levenshtein-api): match game names with Levenshtein distance through an API built with Flask on Heroku,
+-   [`heroku-levenshtein-api`](https://github.com/woctezuma/heroku-levenshtein-api): match game names with Levenshtein distance via an API built with Flask on Heroku,
 -   [`heroku-clip`](https://github.com/woctezuma/heroku-clip): classify images through an API built with Streamlit on Heroku,
 
 #### i) API utils
