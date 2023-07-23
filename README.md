@@ -82,6 +82,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 -   [`match-steam-tags`](https://github.com/woctezuma/match-steam-tags)@[PyPI](https://pypi.org/project/steamtags/): download and match Steam tags with appIDs,
 -   [`steam-tag-mapping`](https://github.com/woctezuma/steam-tag-mapping): visualize an embedding of Steam tags.
+-   [`epic-games-tag-mapping`](https://github.com/woctezuma/epic-games-tag-mapping): visualize an embedding of tags on the Epic Games store.
 
 ## VII. Miscellaneous
 
