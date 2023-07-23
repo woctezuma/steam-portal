@@ -22,6 +22,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 -   [`steam-CLIP`][banner-repository-CLIP]: retrieve games with similar store banners, using OpenAI's CLIP (input 224x224x3).
 -   [`steam-DINO`](https://github.com/woctezuma/steam-DINO): retrieve games with similar store banners, using Facebook's DINO (input 224x224x3),
 -   [`steam-DINOv2`](https://github.com/woctezuma/steam-DINOv2): retrieve games with similar store banners, using Meta AI's DINOv2,
+-   [`steam-I-JEPA`](https://github.com/woctezuma/steam-IJEPA): retrieve games with similar store banners, using Meta AI's I-JEPA,
 -   [`steam-BiT`](https://github.com/woctezuma/steam-BiT): retrieve games with similar store banners, using Google's Big Transfer (BiT) (input 224x224x3),
 -   [`steam-BEiT`](https://github.com/woctezuma/steam-BEiT): retrieve games with similar store banners, using Microsoft's Bidirectional Encoder representation from Image Transformers (BEiT) (input 224x224x3),
 
