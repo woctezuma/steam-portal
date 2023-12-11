@@ -83,7 +83,7 @@ This page lists my Github repositories which objective is to analyze [Steam](htt
 
 -   [`match-steam-tags`](https://github.com/woctezuma/match-steam-tags)@[PyPI](https://pypi.org/project/steamtags/): download and match Steam tags with appIDs,
 -   [`steam-tag-mapping`](https://github.com/woctezuma/steam-tag-mapping): visualize an embedding of Steam tags.
--   [`epic-games-tag-mapping`](https://github.com/woctezuma/epic-games-tag-mapping): visualize an embedding of tags on the Epic Games store.
+-   [`epic-games-tag-mapping`](https://github.com/woctezuma/epic-games-tag-mapping): visualize an embedding of tags on the Epic Games Store.
 
 ## VII. Miscellaneous
 
@@ -151,10 +151,10 @@ NB: With `steam-api`, store descriptions can also be aggregated for [later proce
 -   [`epic-games-ratings`](https://github.com/woctezuma/epic-games-ratings): Bayesian average ratings of games on the Epic Games Store,
 -   [`epic-games-achievements`](https://github.com/woctezuma/epic-games-achievements): achievements on the Epic Games Store,
 -   [`epic-games-tracker`](https://github.com/woctezuma/epic-games-tracker): track the numbers of players and ratings on the Epic Games Store,
--   [`epic-games-promotion-tracker`](https://github.com/woctezuma/epic-games-promotion-tracker): track upcoming promotional offers on the Epic Games store,
--   [`epic-games-gift-tracker`](https://github.com/woctezuma/epic-games-gift-tracker): track upcoming gift wrappings on the Epic Games store,
+-   [`epic-games-promotion-tracker`](https://github.com/woctezuma/epic-games-promotion-tracker): track upcoming promotional offers on the Epic Games Store,
+-   [`epic-games-gift-tracker`](https://github.com/woctezuma/epic-games-gift-tracker): track upcoming gift wrappings on the Epic Games Store,
 -   [`epic-games-player-estimates`](https://github.com/woctezuma/epic-games-player-estimates): correlate the numbers of players and ratings on the Epic Games Store,
--   [`epic-games-js`](https://github.com/woctezuma/epic-games-js): download JavaScript files (cached webpack) from the Epic Games store,
+-   [`epic-games-js`](https://github.com/woctezuma/epic-games-js): download JavaScript files (cached webpack) from the Epic Games Store,
 -   [`geforce-leak`](https://github.com/woctezuma/geforce-leak): datamining of Nvidia's GeForce NOW (GFN),
 -   [`humble-choice-leak`](https://github.com/woctezuma/humble-choice-leak): datamining to retrieve leaks for Humble Choice.
 
